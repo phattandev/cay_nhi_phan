@@ -1,5 +1,5 @@
 ﻿  Main.cpp
   Source.cpp
   Generating Code...
-C:\Users\USER\Desktop\Thi TH CTDL\Cay Nhi Phan\Cay Nhi Phan\Source.cpp(90): warning C4715: 'timNode': not all control paths return a value
-  Cay Nhi Phan.vcxproj -> C:\Users\USER\Desktop\Thi TH CTDL\Cay Nhi Phan\x64\Debug\Cay Nhi Phan.exe
+D:\Năm 1-1,5\Cay Nhi Phan\Cay Nhi Phan\Source.cpp(90): warning C4715: 'timNode': not all control paths return a value
+  Cay Nhi Phan.vcxproj -> D:\Năm 1-1,5\Cay Nhi Phan\x64\Debug\Cay Nhi Phan.exe
